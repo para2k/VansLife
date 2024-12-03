@@ -5,6 +5,7 @@
 - **Van Listings**: Users can explore a variety of vans with filtering options (e.g., luxury, rugged, simple) and access detailed specifications for each van.
 - **Host Functionality (Demo)**: Includes simulated features for hosts, such as viewing fake earnings, managing van listings, and checking customer reviews.
 - **React Router**: Used to implement smooth and efficient navigation across different pages, ensuring a better user experience with dynamic routes and page transitions.
+- **Firebase**: Utilized for database management, providing real-time data synchronization and user authentication to ensure a seamless experience for both users and hosts.
 
 ### Technologies Used:
 - **Vite**: For fast development and optimized builds.
